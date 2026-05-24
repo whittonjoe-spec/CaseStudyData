@@ -1,5 +1,5 @@
 {
-  "brands": [
+  "Brands": [
     {
       "id": 1,
       "name": "Logitech"
@@ -14,7 +14,7 @@
     }
   ],
 
-  "products": [
+  "Products": [
     {
       "id": "LOG001",
       "brandId": 1,
