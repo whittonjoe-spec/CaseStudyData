@@ -48,29 +48,29 @@
     "qtyOnHand": 18,
     "qtyOnBackOrder": 2,
     "description": "Ultra-lightweight wireless gaming mouse designed for competitive esports performance."
-  },
-  {
-    "id": "LOG004",
+    },
+    {
+      "id": "LOG004",
+      "brandId": 1,
+      "productName": "Logitech G733 Wireless Headset",
+      "graphicName": "g733.png",
+      "costPrice": 75.00,
+      "msrp": 129.99,
+      "qtyOnHand": 14,
+      "qtyOnBackOrder": 1,
+      "description": "Colorful wireless gaming headset with RGB lighting and immersive audio."
+    },
+    {
+    "id": "LOG005",
     "brandId": 1,
-    "productName": "Logitech G733 Wireless Headset",
-    "graphicName": "g733.png",
-    "costPrice": 75.00,
-    "msrp": 129.99,
-    "qtyOnHand": 14,
-    "qtyOnBackOrder": 1,
-    "description": "Colorful wireless gaming headset with RGB lighting and immersive audio."
-  },
-  {
-  "id": "LOG005",
-  "brandId": 1,
-  "productName": "Logitech C920 HD Pro Webcam",
-  "graphicName": "c920.png",
-  "costPrice": 50.00,
-  "msrp": 89.99,
-  "qtyOnHand": 22,
-  "qtyOnBackOrder": 0,
-  "description": "Full HD 1080p webcam with clear video quality for streaming and video calls."
-}
+    "productName": "Logitech C920 HD Pro Webcam",
+    "graphicName": "c920.png",
+    "costPrice": 50.00,
+    "msrp": 89.99,
+    "qtyOnHand": 22,
+    "qtyOnBackOrder": 0,
+    "description": "Full HD 1080p webcam with clear video quality for streaming and video calls."
+    },
 
     {
       "id": "HYP001",
