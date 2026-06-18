@@ -16,7 +16,7 @@
 
   "products": [
     {
-      "id": "LOG001",
+      "productCode": "LOG001",
       "brandId": 1,
       "productName": "Logitech G502 Mouse",
       "graphicName": "g502.png",
@@ -28,7 +28,7 @@
     },
 
     {
-      "id": "LOG002",
+      "productCode": "LOG002",
       "brandId": 1,
       "productName": "Logitech G915 Keyboard",
       "graphicName": "g915.png",
@@ -39,7 +39,7 @@
       "description": "Wireless mechanical gaming keyboard with low profile switches and RGB lighting."
     },
     {
-    "id": "LOG003",
+    "productCode": "LOG003",
     "brandId": 1,
     "productName": "Logitech G Pro X Superlight Mouse",
     "graphicName": "gproxs.png",
@@ -50,7 +50,7 @@
     "description": "Ultra-lightweight wireless gaming mouse designed for competitive esports performance."
     },
     {
-      "id": "LOG004",
+      "productCode": "LOG004",
       "brandId": 1,
       "productName": "Logitech G733 Wireless Headset",
       "graphicName": "g733.png",
@@ -61,7 +61,7 @@
       "description": "Colorful wireless gaming headset with RGB lighting and immersive audio."
     },
     {
-    "id": "LOG005",
+    "productCode": "LOG005",
     "brandId": 1,
     "productName": "Logitech C920 HD Pro Webcam",
     "graphicName": "c920.png",
@@ -73,7 +73,7 @@
     },
 
     {
-      "id": "HYP001",
+      "productCode": "HYP001",
       "brandId": 2,
       "productName": "HyperX Cloud II Headset",
       "graphicName": "cloud2.png",
@@ -85,7 +85,7 @@
     },
 
     {
-      "id": "HYP002",
+      "productCode": "HYP002",
       "brandId": 2,
       "productName": "HyperX Alloy Origins Keyboard",
       "graphicName": "alloyorigins.png",
@@ -97,7 +97,7 @@
     },
 
     {
-      "id": "STE001",
+      "productCode": "STE001",
       "brandId": 3,
       "productName": "SteelSeries Apex 5 Keyboard",
       "graphicName": "apex5.png",
@@ -109,7 +109,7 @@
     },
 
     {
-      "id": "STE002",
+      "productCode": "STE002",
       "brandId": 3,
       "productName": "SteelSeries Rival 3 Mouse",
       "graphicName": "rival3.png",
